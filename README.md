@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, my name is Hector Perez 👋
 
 <!--
 **hectorpl/hectorpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working as a postdoctoral fellow at the University of Waterloo
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on research projects
+- 🤔 I’m looking for help with machine learning algorithms for risk estimation and classification
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: hperez@uwaterloo.ca
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
