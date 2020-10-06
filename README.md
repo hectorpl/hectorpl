@@ -4,19 +4,17 @@
 - 👯 I’m looking to collaborate on research projects
 - 🤔 I’m looking for help with machine learning algorithms for risk estimation and classification
 - 💬 Ask me about ...
-- 📫 How to reach me: hperez@uwaterloo.ca
+- 📫 How to reach me: hector.plp@gmail.com
 - 😄 Pronouns: he/him
 <!--
 **hectorpl/hectorpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working as a postdoctoral fellow at the University of Waterloo
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on research projects
 - 🤔 I’m looking for help with machine learning algorithms for risk estimation and classification
 - 💬 Ask me about ...
-- 📫 How to reach me: hperez@uwaterloo.ca
+- 📫 How to reach me: hector.plp@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
