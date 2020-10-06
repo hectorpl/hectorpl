@@ -1,5 +1,5 @@
 ### Hi there, my name is Hector Perez 👋
-- 🔭 I’m currently working as a postdoctoral fellow at the University of Waterloo
+- 🔭 I’m currently doing research on Ageing and Technology
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on research projects
 - 🤔 I’m looking for help with machine learning algorithms for risk estimation and classification
