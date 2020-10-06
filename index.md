@@ -4,9 +4,10 @@ You can use the [editor on GitHub](https://github.com/hectorpl/hectorpl/edit/gh-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Bio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hello, my name is Hector Perez. I am postdoctoral researcher in the Applied Health Sciences Faculty at the University of Waterloo (Canada). I am doing research on risk factors for people living with dementia to getting lost.
+
 
 ```markdown
 Syntax highlighted code block
