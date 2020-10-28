@@ -1,6 +1,6 @@
 ### Hi there, my name is Hector Perez 👋
 - 🔭 I’m currently doing research on Ageing and Technology
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and GIS
 - 👯 I’m looking to collaborate on research projects
 - 🤔 I’m looking for help with machine learning algorithms for risk estimation and classification
 - 💬 Ask me about ...
