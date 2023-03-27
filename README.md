@@ -1,8 +1,8 @@
 ### Hi there, my name is Hector Perez 👋
 - 🔭 I’m currently doing research on Ageing and Technology
-- 🌱 I’m currently learning python and GIS
+- 🌱 I’m currently working on data analysis using SPSS, R and ArcGIS
 - 👯 I’m looking to collaborate on research projects
-- 🤔 I’m looking for help with machine learning algorithms for risk estimation and classification
+- 🤔 I’m looking to learning more about machine learning algorithms for risk estimation and classification
 - 💬 Ask me about ...
 - 📫 How to reach me: hector.plp@gmail.com
 - 😄 Pronouns: he/him
